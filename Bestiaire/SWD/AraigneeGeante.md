@@ -7,14 +7,11 @@ Allure : 8
 	Agi	Âme	For	Int	Vig
 	d10	d6	d10	d4 (A)	d6
 
-Compétences : Combat d8, Discrétion d10, Escalade d12+2, Intimidation d10, Perception d8, Tir d10
+Compétences : Combat d8, Discrétion d10, Escalade d12+2, Intimidation d10, Perception d8, Tir d10.
 
 	PAR	RES
 	6	5
 
-### Capacités spéciales
-- Poison (-4)
-
 ### Actions
-- Morsure	: Combat d8, d10+d4+Poison
-- Toile : Tir d10, 3/6/12, ceux qui se retrouvent pris dans la toile doivent la déchirer pour se libérer (RES 7). Les victimes de la toile peuvent se battre mais toute action physique subit un malus de –4.
+- Morsure : Combat d8, d10+d4 + poison (-4).
+- Toile : Tir d10, 3/6/12, entrave la cible subit -4 à toutes ses actions physiques, ses attaques incluses. Déchirer la toile (RES 7) pour la libérer.
