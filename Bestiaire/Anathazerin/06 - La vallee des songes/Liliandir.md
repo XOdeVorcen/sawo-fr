@@ -23,4 +23,4 @@ Handicaps : Deux mains gauches, Prudent.
 - Épée courte : Combat d8, 2d6.
 
 ### Équipement
-Chemise de maille, épée courte, dague, potion de soins (pouvoir _Guérison_ sans Relance), bourse contenant 8 pa et 11 pc.
+Chemise de mailles, épée courte, dague, potion de soins (pouvoir _Guérison_ sans Relance), bourse contenant 8 pa et 11 pc.
